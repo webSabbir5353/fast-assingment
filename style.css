@@ -1,0 +1,49 @@
+body{
+    font-family: 'Lemon', cursive;
+font-family: 'PT Sans', sans-serif;
+}
+section{
+    display: flex;
+}
+span{
+     color: rgb(217, 66, 255);
+}
+h1{
+    font-size:50px;
+    font-weight:750px ;
+    border-left: 5px solid tomato;
+    padding-left:2%;
+}
+.one{
+    width: 40%;
+    margin-left: 50px;
+    padding-top: 5%;
+    text-align: justify;
+}
+.one img{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 40%;
+}
+.button{
+    color: white;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 15%;
+}
+.two{
+    font-size: 50px;
+    font-weight: 1000px;
+    text-align: center;
+}
+.three{
+  color: rgb(255, 163, 25);
+}
+.four{
+    width: 80%;
+    background-color: chocolate;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 1%;
+}
