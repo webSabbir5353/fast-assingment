@@ -40,10 +40,54 @@ h1{
 .three{
   color: rgb(255, 163, 25);
 }
-.four{
-    width: 80%;
-    background-color: chocolate;
-    border: 5px solid black;
-    border-radius: 10px;
-    margin: 1%;
+.four1{
+    width: 30%;
+    background-color: rgb(129, 226, 255);
+    border: 5px solid rgb(129, 226, 255);
+    border-radius: 30px
+
+    
+}
+.four2{
+    width: 20%;
+    background-color: cornflowerblue;
+    border: 5px solid cornflowerblue;
+    border-radius: 30px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.four3{
+    width: 30%;
+    background-color: #ffbb93;
+    border: 5px solid #ffbb93;
+    border-radius: 30px;
+}
+.four1 img{
+    height: 40%;
+    width: 40%;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+.four2 img{
+    height: 40%;
+    width: 40%;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+.four3 img{
+    height: 40%;
+    width: 40%;
+    padding: 1%;
+}
+.five img{
+    width: 50%;
+    padding-top: 10%;
+    padding-left: 40%;
+}
+.five{
+    width: 50%;
+    font-size: 40px
+    text-aline: center;
+    
+
 }
