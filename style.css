@@ -1,17 +1,17 @@
 body{
-    font-family: 'Lemon', cursive;
-font-family: 'PT Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 section{
     display: flex;
     margin-bottom: 10px;
 }
 span{
-     color: rgb(217, 66, 255);
+     color: rgb(255, 153, 0);
 }
 .welcome{
-    font-size:50px;
-    font-weight:750px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:70px;
+    font-weight:800px ;
     border-left: 5px solid tomato;
     padding-left:2%;
 }
@@ -23,7 +23,7 @@ span{
 }
 .one img{
     width: 50%;
-    padding-top: 5%;
+    padding-top: 9%;
     padding-left: 40%;
 }
 .button{
@@ -49,7 +49,7 @@ span{
 }
 .two{
     font-size: 50px;
-    font-weight: 1000px;
+    font-weight: 2000px;
     text-align: center;
 }
 .three{
@@ -57,41 +57,37 @@ span{
 }
 .four1{
     width: 32%;
+    height: 500px;
     background-color: rgb(129, 226, 255);
     border-radius: 30px;
-    padding-left:1%;
-    margin-left: 50px;    
+    padding-left:2%;
+    margin-left: 200px;   
 }
 .four2{
     width: 32%;
     background-color: cornflowerblue;
     border-radius: 30px;
-    margin-left: 1%;
-    margin-right: 1%;
+    padding-left: 2%;
+    margin-left: 50px;
+    margin-right: 50px
 }
 .four3{
     width: 32%;
     background-color: #ffbb93;
     border-radius: 30px;
-    padding-left: 1%;
-    margin-right: 50px;
+    padding-left: 2%;
+    margin-right: 200px;
 }
 .four1 img{
-    height: 40%;
     width: 40%;
-    padding-left: 2%;
-    padding-top: 2%;
 }
 .four2 img{
-    height: 40%;
     width: 40%;
-    padding-left: 2%;
-    padding-top: 2%;
+    margin-right: px;
 }
 .four3 img{
-    height: 40%;
     width: 40%;
-    padding: 1%;
+    margin-left: px;
 }
 .five img{
     width: 40%;
@@ -101,7 +97,6 @@ span{
 .five1{
     width: 60%;
     font-size: 20px;
-    margin-top: 20px;
     margin-right: 400px;
 }
 .six{
